@@ -1,0 +1,7 @@
+C:\repos\Hackerrank\StaircaseSolution\Staircase\bin\Debug\Staircase.exe.config
+C:\repos\Hackerrank\StaircaseSolution\Staircase\bin\Debug\Staircase.exe
+C:\repos\Hackerrank\StaircaseSolution\Staircase\bin\Debug\Staircase.pdb
+C:\repos\Hackerrank\StaircaseSolution\Staircase\obj\Debug\Staircase.csprojResolveAssemblyReference.cache
+C:\repos\Hackerrank\StaircaseSolution\Staircase\obj\Debug\Staircase.csproj.CoreCompileInputs.cache
+C:\repos\Hackerrank\StaircaseSolution\Staircase\obj\Debug\Staircase.exe
+C:\repos\Hackerrank\StaircaseSolution\Staircase\obj\Debug\Staircase.pdb
